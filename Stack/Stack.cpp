@@ -111,7 +111,10 @@ int main() {
 			break; 
 		}
 
+		cout << endl; 
 	}
+
+	return 0; 
 
 	
 }
