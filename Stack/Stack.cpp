@@ -101,6 +101,11 @@ int main() {
 			else {
 				cout << "Stack is empty. No top value." << endl; 
 			}
+			break;
+
+		case 4:
+			cout << "Stack is empty. No top value." << endl; 
+			break; 
 
 		}
 
