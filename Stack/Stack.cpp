@@ -106,7 +106,9 @@ int main() {
 		case 4:
 			cout << "Stack is empty. No top value." << endl; 
 			break; 
-
+		default: 
+			cout << "Invalid choice. Try again." << endl; 
+			break; 
 		}
 
 	}
